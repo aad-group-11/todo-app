@@ -3,6 +3,7 @@ This is a learning project for Kotlin, Room Persistence Library, Android Archite
 Model-View-ViewModel Architecture
 
 **Project Overview**
+
 View - Responsible for:
 1. Forwards Events to the VM
 2. Observes Data exposed by the VM
@@ -18,10 +19,10 @@ Model - Responsible for:
 
 ## Features
 
-### List - Display Todos in a RecyclerView(With Cardview)
+**List - Display Todos in a RecyclerView(With Cardview)**
 
-### Create - Create a new Todo Item 
+**Create - Create a new Todo Item** 
 
-### Detail - View a Todo Item in Detail View
+**Detail - View a Todo Item in Detail View**
 
 
